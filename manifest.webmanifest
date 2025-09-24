@@ -5,66 +5,65 @@
   "scope": "./",
   "start_url": "./",
   "icons": [
-       {
-      "src": "icons/recipe1.png",
+    {
+      "src": "assets/icons/recipe1.png",
       "sizes": "16x16",
       "type": "image/png",
       "purpose": "maskable any"
     },
-       {
-      "src": "icons/recipe2.png",
+    {
+      "src": "assets/icons/recipe2.png",
       "sizes": "24x24",
       "type": "image/png",
       "purpose": "maskable any"
     },
-       {
-      "src": "icons/recipe3.png",
+    {
+      "src": "assets/icons/recipe3.png",
       "sizes": "32x32",
       "type": "image/png",
       "purpose": "maskable any"
     },
-       {
-      "src": "icons/recipe4.png",
+    {
+      "src": "assets/icons/recipe4.png",
       "sizes": "64x64",
       "type": "image/png",
       "purpose": "maskable any"
     },
-       {
-      "src": "icons/recipe5.png",
+    {
+      "src": "assets/icons/recipe5.png",
       "sizes": "128x128",
       "type": "image/png",
       "purpose": "maskable any"
     },
-       {
-      "src": "icons/recipe6.png",
+    {
+      "src": "assets/icons/recipe6.png",
       "sizes": "152x152",
       "type": "image/png",
       "purpose": "maskable any"
     },
-       {
-      "src": "icons/recipe7.png",
+    {
+      "src": "assets/icons/recipe7.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable any"
     },
-       {
-      "src": "icons/recipe8.png",
+    {
+      "src": "assets/icons/recipe8.png",
       "sizes": "256x256",
       "type": "image/png",
       "purpose": "maskable any"
     },
-       {
-      "src": "icons/recipe9.png",
+    {
+      "src": "assets/icons/recipe9.png",
       "sizes": "384x384",
       "type": "image/png",
       "purpose": "maskable any"
     },
-       {
-      "src": "icons/recipe10.png",
+    {
+      "src": "assets/icons/recipe10.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable any"
     }
-  
   ]
 }
