@@ -1,0 +1,121 @@
+{
+  "configVersion": 1,
+  "timestamp": 1758719546311,
+  "index": "https://D0ubleGi.github.io/Recipes/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://D0ubleGi.github.io/Recipes/index.html",
+        "https://D0ubleGi.github.io/Recipes/main-7EAHGZYK.js",
+        "https://D0ubleGi.github.io/Recipes/polyfills-5CFQRCPP.js",
+        "https://D0ubleGi.github.io/Recipes/styles-5INURTSO.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://D0ubleGi.github.io/Recipes/assets/images/Screenshot (336).png",
+        "https://D0ubleGi.github.io/Recipes/assets/images/Screenshot (437).png",
+        "https://D0ubleGi.github.io/Recipes/assets/images/approved.png",
+        "https://D0ubleGi.github.io/Recipes/assets/images/arrow.png",
+        "https://D0ubleGi.github.io/Recipes/assets/images/check.png",
+        "https://D0ubleGi.github.io/Recipes/assets/images/close (1).png",
+        "https://D0ubleGi.github.io/Recipes/assets/images/close.png",
+        "https://D0ubleGi.github.io/Recipes/assets/images/cross.png",
+        "https://D0ubleGi.github.io/Recipes/assets/images/delete.png",
+        "https://D0ubleGi.github.io/Recipes/assets/images/edit-text.png",
+        "https://D0ubleGi.github.io/Recipes/assets/images/eye (1).png",
+        "https://D0ubleGi.github.io/Recipes/assets/images/eye.png",
+        "https://D0ubleGi.github.io/Recipes/assets/images/favorite.png",
+        "https://D0ubleGi.github.io/Recipes/assets/images/icons8-x-18.png",
+        "https://D0ubleGi.github.io/Recipes/assets/images/left-arrow (1).png",
+        "https://D0ubleGi.github.io/Recipes/assets/images/left-arrow.png",
+        "https://D0ubleGi.github.io/Recipes/assets/images/star (1).png",
+        "https://D0ubleGi.github.io/Recipes/assets/images/star (2).png",
+        "https://D0ubleGi.github.io/Recipes/assets/images/star.png",
+        "https://D0ubleGi.github.io/Recipes/assets/images/trash-can.png",
+        "https://D0ubleGi.github.io/Recipes/media/Screenshot (336)-46ZKAMWS.png",
+        "https://D0ubleGi.github.io/Recipes/media/close (1)-3GTDFLLP.png",
+        "https://D0ubleGi.github.io/Recipes/media/close-GWQZVARC.png",
+        "https://D0ubleGi.github.io/Recipes/media/cross-VBCKXK76.png",
+        "https://D0ubleGi.github.io/Recipes/media/eye-EXH6G2WN.png",
+        "https://D0ubleGi.github.io/Recipes/media/favorite-VN6T4KNK.png",
+        "https://D0ubleGi.github.io/Recipes/media/left-arrow (1)-POANGXXS.png",
+        "https://D0ubleGi.github.io/Recipes/media/left-arrow-ECTCGRPN.png",
+        "https://D0ubleGi.github.io/Recipes/media/star (1)-2QSCSNYL.png",
+        "https://D0ubleGi.github.io/Recipes/media/star (2)-COHVK25C.png",
+        "https://D0ubleGi.github.io/Recipes/media/star-W46B3MSB.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://D0ubleGi.github.io/Recipes/assets/images/Screenshot (336).png": "02499da3044b4b49c0de89b706d8da5d30c4fba6",
+    "https://D0ubleGi.github.io/Recipes/assets/images/Screenshot (437).png": "d317412daa9a9f343457311a03b6577c8a3b97a6",
+    "https://D0ubleGi.github.io/Recipes/assets/images/approved.png": "095cc92b63b0ba605c18215d732fd79efb9f797d",
+    "https://D0ubleGi.github.io/Recipes/assets/images/arrow.png": "7ade6729c509000e9c9ec39030c32dacae42e0bb",
+    "https://D0ubleGi.github.io/Recipes/assets/images/check.png": "7f72d3e29605ec6a597cddaa41f27864a912f24d",
+    "https://D0ubleGi.github.io/Recipes/assets/images/close (1).png": "fa8eaeef3619328a98cc8afc0b3f15a00bc081e0",
+    "https://D0ubleGi.github.io/Recipes/assets/images/close.png": "5665cdfb597ceaad3b567236a80e88e814b583c3",
+    "https://D0ubleGi.github.io/Recipes/assets/images/cross.png": "da159d8021f8162488222bc0168125a1c5a5a0c6",
+    "https://D0ubleGi.github.io/Recipes/assets/images/delete.png": "2310041fe8d89d17652fde55b720a4c8cd16e6cf",
+    "https://D0ubleGi.github.io/Recipes/assets/images/edit-text.png": "0ede8c95d8e04574375bfdd89b1fc7208e229b9f",
+    "https://D0ubleGi.github.io/Recipes/assets/images/eye (1).png": "c469edf122aac7fb1c6ab6701efac7be923c09ed",
+    "https://D0ubleGi.github.io/Recipes/assets/images/eye.png": "72925dbc69a6c6a9fb668da44ede015b2c16f112",
+    "https://D0ubleGi.github.io/Recipes/assets/images/favorite.png": "90ae6d8ce2605c75a5a08ffd191b0148062a1bd8",
+    "https://D0ubleGi.github.io/Recipes/assets/images/icons8-x-18.png": "df9da391f8c30cebc9052837bb43ba70c0259b3c",
+    "https://D0ubleGi.github.io/Recipes/assets/images/left-arrow (1).png": "85bfc348923b47a015e326f3e84c2cd597f680d9",
+    "https://D0ubleGi.github.io/Recipes/assets/images/left-arrow.png": "fd3ce71b54f67cadd60b1cbfa886834f38c8ae86",
+    "https://D0ubleGi.github.io/Recipes/assets/images/star (1).png": "d8d91b723b9c805638aa60943862a190406af40d",
+    "https://D0ubleGi.github.io/Recipes/assets/images/star (2).png": "3e843f62db99dfb6d4b5650e7fd71e7aa76366e4",
+    "https://D0ubleGi.github.io/Recipes/assets/images/star.png": "fd2b4556742a4d9f3ef6861416c529a4eea6a02c",
+    "https://D0ubleGi.github.io/Recipes/assets/images/trash-can.png": "ccdf3a79ffa4481a75a3f26585163e408f0ef38a",
+    "https://D0ubleGi.github.io/Recipes/index.html": "e50e62e0228f9f83a0908035884e3b37571e9e39",
+    "https://D0ubleGi.github.io/Recipes/main-7EAHGZYK.js": "a1f9329be5f3f552d4bc3e4ce88038bb768c2d01",
+    "https://D0ubleGi.github.io/Recipes/media/Screenshot (336)-46ZKAMWS.png": "02499da3044b4b49c0de89b706d8da5d30c4fba6",
+    "https://D0ubleGi.github.io/Recipes/media/close (1)-3GTDFLLP.png": "fa8eaeef3619328a98cc8afc0b3f15a00bc081e0",
+    "https://D0ubleGi.github.io/Recipes/media/close-GWQZVARC.png": "5665cdfb597ceaad3b567236a80e88e814b583c3",
+    "https://D0ubleGi.github.io/Recipes/media/cross-VBCKXK76.png": "da159d8021f8162488222bc0168125a1c5a5a0c6",
+    "https://D0ubleGi.github.io/Recipes/media/eye-EXH6G2WN.png": "72925dbc69a6c6a9fb668da44ede015b2c16f112",
+    "https://D0ubleGi.github.io/Recipes/media/favorite-VN6T4KNK.png": "90ae6d8ce2605c75a5a08ffd191b0148062a1bd8",
+    "https://D0ubleGi.github.io/Recipes/media/left-arrow (1)-POANGXXS.png": "85bfc348923b47a015e326f3e84c2cd597f680d9",
+    "https://D0ubleGi.github.io/Recipes/media/left-arrow-ECTCGRPN.png": "fd3ce71b54f67cadd60b1cbfa886834f38c8ae86",
+    "https://D0ubleGi.github.io/Recipes/media/star (1)-2QSCSNYL.png": "d8d91b723b9c805638aa60943862a190406af40d",
+    "https://D0ubleGi.github.io/Recipes/media/star (2)-COHVK25C.png": "3e843f62db99dfb6d4b5650e7fd71e7aa76366e4",
+    "https://D0ubleGi.github.io/Recipes/media/star-W46B3MSB.png": "fd2b4556742a4d9f3ef6861416c529a4eea6a02c",
+    "https://D0ubleGi.github.io/Recipes/polyfills-5CFQRCPP.js": "f2241e9a25858f895ce299d15f6f22e849e2fd72",
+    "https://D0ubleGi.github.io/Recipes/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
